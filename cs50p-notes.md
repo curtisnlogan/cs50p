@@ -229,3 +229,24 @@ To exit only the loop (not the entire function), use break. This stops the loop 
 Week 3
 
 https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@bd6e4b312f2b4e8d9e89ec63708a367a/block-v1:HarvardX+CS50P+Python+type@vertical+block@cb3e9f779e7a46ff9af9a64d3efbee01
+
+* syntex error means theres something wrong with the way you've typed your code. like making a grammatical mistake in English
+* syntex errors MUST be fixed
+* runtime errors are different as they can stem from bad human input. we must take pre-emptive defensive measures against them
+* 'try' keyword can be used to catch runtime errors, such as user input mistake
+* then use 'except' to catch things that you preemptive think may go wrong
+* LOADS of different errors that you will encounter over the years but the WAY inwhich you handle them largely the same
+* BAD PRACTICE: if you use general 'except' instead of being specific, you won't know what exactly is going wrong in your code
+* the 'try' block should ONLY include the things that could raise the value error
+* value error tends to be problem with what others entered
+* name error doing something with your code that you shouldn't maybe using a variable that doesn't exist for example
+* one can use 'else' statememt after except block to tell python what to do if code does not encounter errors
+* try:
+    x = int(input("Whats x question mark? "))
+except ValueError:
+    print("x is not a number")
+else:
+    print(f'x is a number: {x}')
+  * 'break' keyword to get out of loops
+  * 'return' also breaks a loop just like it closes off a function
+  * you can ignore a warning whilst still catching it with 'pass'
