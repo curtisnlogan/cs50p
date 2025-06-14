@@ -251,7 +251,7 @@ def calculate_average(data):
 ---
 
 ### Week 3
-*Link provided: [Week 3 Content](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@bd6b4b312f2b4e8d9e89ec63708a367a/block-v1:HarvardX+CS50P+Python+type@vertical+block@cb3e9f779e7a46ff9af9a64d3efbee01)*  
+*Link provided: [Week 3 Content: 38:00](https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@bd6b4b312f2b4e8d9e89ec63708a367a/block-v1:HarvardX+CS50P+Python+type@vertical+block@cb3e9f779e7a46ff9af9a64d3efbee01)*  
 
 - **Syntax error** means there’s something wrong with the way you’ve typed your code, like making a grammatical mistake in English.  
   *Correction: "syntex" → "syntax".*
