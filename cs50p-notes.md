@@ -1,4 +1,4 @@
-# cs50p notes
+# cs50p-notes
 
 ## Week 0: Introduction to Python Basics
 
