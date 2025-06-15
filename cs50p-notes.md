@@ -1,4 +1,4 @@
-## CS50P Notes
+## cs50p-notes.md
 
 ### Week 0
 - Code is just text; you could even write it in Google Docs.
