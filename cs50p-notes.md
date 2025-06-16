@@ -251,3 +251,9 @@ if 80 <= score < 90:  # Pythonic
   - **Breakpoints**: In VS Code, red dots next to code lines pause execution, letting you inspect variables and program state.
 
 ---
+
+NEW NOTES
+
+* raising an error alone doesn't handle it. one needs to use it in an 'except' as something like 'e' to decide what to do with that error
+* otherwise program simply stops running by default
+* 
