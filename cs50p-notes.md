@@ -1,5 +1,7 @@
 # cs50p-notes
 
+https://cs50.harvard.edu/python/2022/psets/3/outdated/
+
 ## Week 0: Introduction to Python Basics
 
 - **Code as Text**: Code is essentially plain text, but it’s typically written in specialized editors or Integrated Development Environments (IDEs) rather than tools like Google Docs, which aren’t designed for execution or compilation.
