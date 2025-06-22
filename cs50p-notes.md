@@ -1,6 +1,6 @@
 # cs50p-notes
 
-https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@ea6fc5c250bc4fc786575db3b93611a5/block-v1:HarvardX+CS50P+Python+type@vertical+block@ae607d49594541069761d6077d6c1fee
+(12:35) https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@ea6fc5c250bc4fc786575db3b93611a5/block-v1:HarvardX+CS50P+Python+type@vertical+block@ae607d49594541069761d6077d6c1fee
 
 ## Week 0: Introduction to Python Basics
 
@@ -258,4 +258,19 @@ NEW NOTES
 
 * raising an error alone doesn't handle it. one needs to use it in an 'except' as something like 'e' to decide what to do with that error
 * otherwise program simply stops running by default
+
+NEW NOTES LIBRARIES
+
+* modules exist to stop us from having to endlessly copy and paste code that we often want to reuse
+* there are some in-built libraries like 'random' for-example but you have to 'import' them
+* you don't have to write all of your code yourself, pretty much nobody does this at the proffesional level
+* video games are often built with a ton of reused code from numerous places, in-house and external
+* 'seq' usually used to refer to something that is list like
+* 'from' allows you to import specific things from modules, more memory efficient
+* not using 'from' also means you always have to type in the module name to access a function from it
+* 'from random import choice'
+* though importing an entire library stops naming conflicts with your own functions for example
+as the module name also has to be written out before you call the function
+* for large programs this 'import' would likely be the better option
+* random.randit(a, b) both numbers are inclusive a = 1 b = 10 the answer could be from 1 to 10 when called
 * 
