@@ -1,6 +1,6 @@
 # cs50p-notes
 
-https://cs50.harvard.edu/python/2022/psets/3/outdated/
+https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@ea6fc5c250bc4fc786575db3b93611a5/block-v1:HarvardX+CS50P+Python+type@vertical+block@ae607d49594541069761d6077d6c1fee
 
 ## Week 0: Introduction to Python Basics
 
