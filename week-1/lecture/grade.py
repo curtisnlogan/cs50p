@@ -1,14 +1,12 @@
-score = int(input('Score: '))
+score = int(input("Score: "))
 
 if 90 <= score:
-    print('Grade A')
+    print("Grade A")
 elif 80 <= score:
-    print('Grade B')
+    print("Grade B")
 elif 70 <= score:
-    print('Grade B')
+    print("Grade B")
 elif 60 <= score:
-    print('Grade D')
+    print("Grade D")
 else:
-    print('Grade F')
-
-qwefwef
+    print("Grade F")
