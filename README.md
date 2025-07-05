@@ -1,1 +1,1 @@
-
+https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/block-v1:HarvardX+CS50P+Python+type@sequential+block@ea6fc5c250bc4fc786575db3b93611a5/block-v1:HarvardX+CS50P+Python+type@vertical+block@a474d73bd6034c91ba86bc6baed0ad67
